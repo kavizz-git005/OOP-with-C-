@@ -1,0 +1,7 @@
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\bin\Debug\Lab 1 Q4.exe.config
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\bin\Debug\Lab 1 Q4.exe
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\bin\Debug\Lab 1 Q4.pdb
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\obj\Debug\Lab 1 Q4.csproj.AssemblyReference.cache
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\obj\Debug\Lab 1 Q4.csproj.CoreCompileInputs.cache
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\obj\Debug\Lab 1 Q4.exe
+D:\1st yesr 2nd sem\C#\Lab Works\Lab 1\Lab 1 Q4\Lab 1 Q4\obj\Debug\Lab 1 Q4.pdb
