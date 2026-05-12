@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <Solution>
   <Project Path="Lab 1/Lab 1.csproj" />
 </Solution>
+=======
+<Solution>
+  <Project Path="Lab 1/Lab 1.csproj" />
+</Solution>
+>>>>>>> 39f9b9eaf46f67545936fd17d8628429ac78c46c
