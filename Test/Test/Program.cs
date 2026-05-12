@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_3_Q2
+namespace Test
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Puka sududa ");
+            Console.WriteLine("Hello world");
 
             Console.ReadLine();
         }
