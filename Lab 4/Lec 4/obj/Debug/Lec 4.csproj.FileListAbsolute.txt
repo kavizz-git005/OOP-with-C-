@@ -1,0 +1,7 @@
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\bin\Debug\Lec 4.exe.config
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\bin\Debug\Lec 4.exe
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\bin\Debug\Lec 4.pdb
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\obj\Debug\Lec 4.csproj.AssemblyReference.cache
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\obj\Debug\Lec 4.csproj.CoreCompileInputs.cache
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\obj\Debug\Lec 4.exe
+D:\1st yesr 2nd sem\C#\C# Lec\Lec 4\Lec 4\obj\Debug\Lec 4.pdb

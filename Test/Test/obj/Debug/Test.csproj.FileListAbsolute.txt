@@ -1,7 +1,0 @@
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\bin\Debug\Test.exe.config
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\bin\Debug\Test.exe
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\bin\Debug\Test.pdb
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\obj\Debug\Test.exe
-D:\1st yesr 2nd sem\C#\GitHub Works\OOP-with-C-\Test\Test\obj\Debug\Test.pdb
